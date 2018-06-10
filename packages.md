@@ -9,3 +9,4 @@
 ## Modules
 
 * Screenshots, browser instrumentation, etc: https://github.com/chromedp/chromedp
+* Bruteforcing, takeovers, other DNS stuff: https://github.com/miekg/dns
