@@ -26,7 +26,8 @@ Having information on the parent/child relationship between events/data would ma
 - **Scoping of IP ranges and domains:** The tool has the potential to *run wild* which can be dangerous on professional engagements with a defined scope. It should be possible to limit the tool's reach to specific IP ranges and domains
 - **Config File Discovery:** Discovered hosts can be searched for interesting endpoints and files leading to easy wins.
 - **Platform Identification:** Discovered hosts should be searched using a database or something to find the software running on them.
-
+- **Known exploit scanning:** (TBD) Discovery some common vulnerabilities that may be present based on the host.
+- **SSL Checks:** Check for common SSL Vulnerabilities & Also other stuff like Heartbleed, Poodle, etc
 ## Challenges
 
 ## Reference
