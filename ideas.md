@@ -16,6 +16,7 @@ Having information on the parent/child relationship between events/data would ma
 
 - **Subdomain discovery:** Subdomains could be discovered on domains through various methods, both passive and active
 - **Port scanning:** Discovered hosts could be port scanned for a configurable list of ports
+- **Host Discovery:** Discover alive ip addresses when specified with an IP range
 - **Website screenshots:** Discovered web servers could be screenshotted for easy analysis
 - **Remote Desktop screenshots:** Discovered RDP hosts could be screenshotted for easy analysis
 - **Grouping of similar sites:** Similar sites could be grouped together by analysing returned HTTP responses in a *fuzzy* manner to tolerate smaller differences
@@ -28,6 +29,8 @@ Having information on the parent/child relationship between events/data would ma
 - **Platform Identification:** Discovered hosts should be searched using a database or something to find the software running on them.
 - **Known exploit scanning:** (TBD) Discovery some common vulnerabilities that may be present based on the host.
 - **SSL Checks:** Check for common SSL Vulnerabilities & Also other stuff like Heartbleed, Poodle, etc
+- **VHostScan:** Check for VHosts in found HTTP websites. 
+
 ## Challenges
 
 ## Reference
