@@ -24,6 +24,8 @@ Having information on the parent/child relationship between events/data would ma
 - **Host geolocation:** Discovered hosts could be geolocated through a web service or by looking up in an internal database
 - **Module aggressiveness rating:** Modules could have an *aggressiveness* rating associated with them in order for users to specify how aggressive/noisy or stealthy they want their assessment to be. Some modules perform passive things, while others perform port scanning and other direct interaction with target infrastructure which might not always be desirable
 - **Scoping of IP ranges and domains:** The tool has the potential to *run wild* which can be dangerous on professional engagements with a defined scope. It should be possible to limit the tool's reach to specific IP ranges and domains
+- **Config File Discovery:** Discovered hosts can be searched for interesting endpoints and files leading to easy wins.
+- **Platform Identification:** Discovered hosts should be searched using a database or something to find the software running on them.
 
 ## Challenges
 
