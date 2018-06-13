@@ -30,6 +30,7 @@ Having information on the parent/child relationship between events/data would ma
 - **Known exploit scanning:** (TBD) Discovery some common vulnerabilities that may be present based on the host.
 - **SSL Checks:** Check for common SSL Vulnerabilities & Also other stuff like Heartbleed, Poodle, etc
 - **VHostScan:** Check for VHosts in found HTTP websites. 
+- **Email enumeration:** Enumerating emails from domain, searching for breached accounts, StackOverflow accounts from developers
 
 ## Challenges
 
